@@ -1,0 +1,15 @@
+.navbar-default {
+    background-color: black;
+    
+}
+.navbar-brand {
+    color:#fff;
+    font-size:30px;
+    text-decoration: none;
+}
+.navbar-right {
+    color:#fff;
+    font-size:30px;
+    text-decoration: none;
+    padding-left:950px;
+}
